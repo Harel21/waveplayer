@@ -1,2 +1,2 @@
 # waveplayer
-./waveplayer <wavefile>
+./waveplayer \<wavefile\>
